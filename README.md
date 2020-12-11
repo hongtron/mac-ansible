@@ -1,11 +1,9 @@
 mac-ansible
 ===========
 
-I use this project to configure my macOS the way I like it. That way I can wipe
-and re-install with less effort. See my
-[blog post](https://adamj.eu/tech/2019/03/20/how-i-provision-my-macbook-with-ansible/).
+Forked from @adamchainz 🙌
 
-Getting Started
+Setup
 ---------------
 
 1. Install [homebrew](http://brew.sh/) with the command from the site

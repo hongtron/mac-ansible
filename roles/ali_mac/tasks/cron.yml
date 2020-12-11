@@ -1,0 +1,12 @@
+- name: cron environment
+  cron:
+    name: 'env {{ item }}'
+    job: ''
+    minute: '{{ item }}'
+    hour: ''
+    day: ''
+    weekday: ''
+    month: ''
+  loop:
+  - SHELL=/bin/bash
+  - HOME={{ ansible_env.HOME }}
