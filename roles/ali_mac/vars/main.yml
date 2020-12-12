@@ -62,6 +62,7 @@ homebrew_cask_packages:
 - firefox
 - google-chrome
 - iterm2
+- ivpn
 - java
 - karabiner-elements
 - licecap
