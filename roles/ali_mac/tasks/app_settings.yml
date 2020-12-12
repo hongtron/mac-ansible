@@ -1,7 +1,7 @@
-- name: scripts repo
+- name: dotfiles
   git:
-    repo: git@github.com:adamchainz/chainz-scripts.git
-    dest: ~/script
+    repo: git@github.com:hongtron/dotfiles.git
+    dest: ~/dotfiles
     update: false
 
 - name: iTerm custom settings file
