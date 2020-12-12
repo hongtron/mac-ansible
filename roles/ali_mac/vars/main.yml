@@ -74,3 +74,4 @@ homebrew_cask_packages:
 
 gem_packages:
 - bundler
+- rake
