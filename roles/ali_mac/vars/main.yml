@@ -57,6 +57,7 @@ homebrew_cask_packages:
 - calibre
 - discord
 - docker
+- dropbox
 - firefox
 - google-chrome
 - iterm2
