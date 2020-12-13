@@ -6,8 +6,6 @@ homebrew_packages:
 - asdf
 - autoconf
 - automake
-- avr-binutils
-- avr-gcc@8
 - avrdude
 - awscli
 - bash
@@ -35,7 +33,6 @@ homebrew_packages:
 - perl
 - python
 - python3
-- qmk
 - qt
 - readline
 - ruby
@@ -63,7 +60,6 @@ homebrew_cask_packages:
 - google-chrome
 - iterm2
 - ivpn
-- java
 - karabiner-elements
 - licecap
 - little-snitch
