@@ -66,6 +66,7 @@ homebrew_cask_packages:
 - licecap
 - little-snitch
 - rectangle
+- slack
 - spotify
 - the-unarchiver
 - vlc
