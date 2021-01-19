@@ -5,6 +5,6 @@
     update: false
 
 - name: install dotfiles
-  shell: rake install
+  shell: make install
   args:
     chdir: ~/dotfiles
